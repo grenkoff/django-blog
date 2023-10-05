@@ -1,1 +1,1 @@
-# Project 'django-blog'
+# Project `django-blog`
